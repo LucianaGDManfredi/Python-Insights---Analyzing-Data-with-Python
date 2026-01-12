@@ -4,15 +4,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Logo Python" width="220">
 </div>
 
-##  :brain: Chalenge: Reduce Customer Cancellation
+##  :brain: Challenge: Reduce Customer Cancellation
 
 ## :rocket: Understanding the Challenge
-A company with over 800,000 customers has hired you for a data project. Recently, the company discovered that most of its customer base is made up of inactive customers who have already cancelled the service. 
+A company with over 800,000 customers has hired you for a data project. Recently, the company discovered that most of its customer base consists of inactive customers who have already cancelled the service. 
 
 To improve its results, the company wants to understand the primary reasons for these cancellations and take effective measures to reduce the number of cancellations to a maximum of 20% of the total.
 
 ## :bar_chart: My Project
-As a Data Analyst, I should clean, organized and analyze the database from a CSV file with more than 800 registers.
+As a Data Analyst, I should clean, organise, and analyse the database from a CSV file with more than 800 records.
 - cancelamentos.csv;
   
   Download the database and file ipynb: https://drive.google.com/drive/folders/14V6e4pqInPshjRnyaNGu6YuThVWLmRWD?usp=sharing
@@ -29,15 +29,15 @@ As a Data Analyst, I should clean, organized and analyze the database from a CSV
 <img src="https://github.com/LucianaGDManfredi/imagens/blob/main/ligacoes_callcenter.png" alt="Grafico Calls" width="4400">
 <img src="https://github.com/LucianaGDManfredi/imagens/blob/main/pagamento_atraso.png" alt="Grafico Calls" width="4400">
 
-## :bulb: Conclusiom
+## :bulb: Conclusion
 
 ### Main Causes of Cancellations:
 
 1. Monthly payment method
 2. Payment delays over 20 days
-3. Call center calls exceeding 4 times
+3. Call centre calls exceeding 4 times
 
-If we remove call center calls that exceed 4 times and payment delays after 21 days from our database, our cancellation rate decreases from 56% to 18.4%.
+If we remove call centre calls that exceed 4 times and payment delays after 21 days from our database, our cancellation rate decreases from 56% to 18.4%.
 
 We can conclude that if we address the issues of customers within the first 4 calls and assist them with payment delays within the first 15 days, we can potentially reduce our cancellation rate about 38%.
 
